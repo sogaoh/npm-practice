@@ -4,6 +4,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sogaoh/npm-practice.git"
+  },
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
